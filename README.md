@@ -1,5 +1,3 @@
-Да. Ниже уже полная готовая версия для GitHub: от reconnaissance до root, с командами, объяснениями, твоей проблемой с Meterpreter и переходом на второй стабильный shell через 5555. flag1.txt не упоминаю, а содержимое proof.txt намеренно не публикую.
-
 Astronaut — OffSec Proving Grounds Write-up
 
 Overview
